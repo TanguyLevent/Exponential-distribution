@@ -1,4 +1,4 @@
-## Exponential distribution and comparaison it with the Central Limit Theorem (CTL)
+ToothGrowth## Exponential distribution and comparaison it with the Central Limit Theorem (CTL)
 
 set.seed(1000)
 lambda <- 0.2
